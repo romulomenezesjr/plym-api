@@ -53,3 +53,4 @@ urllib3==1.26.6
 uvicorn==0.13.4
 watchgod==0.7
 websockets==8.1
+PyMySQL==1.0.2

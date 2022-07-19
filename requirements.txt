@@ -12,6 +12,7 @@ bcrypt==3.2.2
 Beaker==1.10.0
 beautifulsoup4==4.11.0
 blivet==3.4.3
+blivet-gui==2.3.0
 Brlapi==0.8.2
 CacheControl==0.12.11
 cachetools==5.0.0

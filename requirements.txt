@@ -49,7 +49,6 @@ flask-marshmallow==0.14.0
 Flask-SQLAlchemy==2.5.1
 flatbuffers==2.0
 fonttools==4.32.0
-fros==1.1
 gast==0.5.3
 google-auth==2.6.2
 google-auth-oauthlib==0.4.6

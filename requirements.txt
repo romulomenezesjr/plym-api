@@ -53,7 +53,6 @@ gast==0.5.3
 google-auth==2.6.2
 google-auth-oauthlib==0.4.6
 google-pasta==0.2.0
-gpg==1.15.1
 greenlet==1.1.2
 grpcio==1.44.0
 h11==0.13.0

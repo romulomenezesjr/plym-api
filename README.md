@@ -1,6 +1,8 @@
 # Objetivos
 - Migrations with Alembic
 - CORS
+- GIT
+- HEROKU
 
 ## Alembic
 ```
@@ -13,3 +15,7 @@ alembic upgrade fffffff
 
 
 ## CORS
+
+
+## GIT
+
